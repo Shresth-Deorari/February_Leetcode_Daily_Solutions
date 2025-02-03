@@ -29,6 +29,12 @@ Below are the solutions to LeetCode problems solved in February 2025, organized 
 - **February 1, 2025**
   - [February_1](February_1.cpp)
 
+- **February 2, 2025**
+  - [February_2](February_2.cpp)
+
+- **February 3, 2025**
+  - [February_3](February_3.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
